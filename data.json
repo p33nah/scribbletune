@@ -161,16 +161,6 @@
   },
   {
     "type": "chord",
-    "name": "C64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "C69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "C7th",
     "notes": [
       "C",
@@ -464,11 +454,6 @@
   },
   {
     "type": "chord",
-    "name": "C7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "C7sus4b9b13",
     "notes": [
       "C",
@@ -592,11 +577,6 @@
   },
   {
     "type": "chord",
-    "name": "CM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "CM#5add9",
     "notes": [
       "C",
@@ -604,11 +584,6 @@
       "G#",
       "D"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "CM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -646,26 +621,6 @@
   },
   {
     "type": "chord",
-    "name": "CM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "CM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "CM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "CM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "CM7#5sus4",
     "notes": [
       "C",
@@ -673,11 +628,6 @@
       "G#",
       "B"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "CM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -731,21 +681,6 @@
       "G",
       "B"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "CM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "CM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "CM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -830,16 +765,6 @@
   },
   {
     "type": "chord",
-    "name": "CMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "CMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Cm",
     "notes": [
       "C",
@@ -867,16 +792,6 @@
       "D",
       "F"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Cm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Cm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -984,16 +899,6 @@
       "Gb",
       "Bb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "CmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "CmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -1247,26 +1152,6 @@
       "Eb",
       "Bb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Db4th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Db5th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Db64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Db69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -1563,11 +1448,6 @@
   },
   {
     "type": "chord",
-    "name": "Db7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Db7sus4b9b13",
     "notes": [
       "Db",
@@ -1691,11 +1571,6 @@
   },
   {
     "type": "chord",
-    "name": "DbM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "DbM#5add9",
     "notes": [
       "Db",
@@ -1703,11 +1578,6 @@
       "A",
       "Eb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "DbM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -1745,26 +1615,6 @@
   },
   {
     "type": "chord",
-    "name": "DbM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DbM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DbM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DbM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "DbM7#5sus4",
     "notes": [
       "Db",
@@ -1772,11 +1622,6 @@
       "A",
       "C"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "DbM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -1830,21 +1675,6 @@
       "Ab",
       "C"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "DbM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DbM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DbM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -1929,16 +1759,6 @@
   },
   {
     "type": "chord",
-    "name": "DbMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DbMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Dbm",
     "notes": [
       "Db",
@@ -1966,16 +1786,6 @@
       "Eb",
       "Gb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Dbm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Dbm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -2083,16 +1893,6 @@
       "G",
       "B"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "DbmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DbmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -2364,16 +2164,6 @@
       "D",
       "A"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "D64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "D69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -2670,11 +2460,6 @@
   },
   {
     "type": "chord",
-    "name": "D7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "D7sus4b9b13",
     "notes": [
       "D",
@@ -2798,11 +2583,6 @@
   },
   {
     "type": "chord",
-    "name": "DM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "DM#5add9",
     "notes": [
       "D",
@@ -2810,11 +2590,6 @@
       "A#",
       "E"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "DM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -2852,26 +2627,6 @@
   },
   {
     "type": "chord",
-    "name": "DM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "DM7#5sus4",
     "notes": [
       "D",
@@ -2879,11 +2634,6 @@
       "A#",
       "C#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "DM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -2937,21 +2687,6 @@
       "A",
       "C#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "DM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -3036,16 +2771,6 @@
   },
   {
     "type": "chord",
-    "name": "DMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Dm",
     "notes": [
       "D",
@@ -3073,16 +2798,6 @@
       "E",
       "G"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Dm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Dm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -3190,16 +2905,6 @@
       "Ab",
       "C"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "DmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "DmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -3453,26 +3158,6 @@
       "F",
       "C"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Eb4th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Eb5th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Eb64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Eb69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -3769,11 +3454,6 @@
   },
   {
     "type": "chord",
-    "name": "Eb7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Eb7sus4b9b13",
     "notes": [
       "Eb",
@@ -3897,11 +3577,6 @@
   },
   {
     "type": "chord",
-    "name": "EbM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "EbM#5add9",
     "notes": [
       "Eb",
@@ -3909,11 +3584,6 @@
       "B",
       "F"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "EbM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -3951,26 +3621,6 @@
   },
   {
     "type": "chord",
-    "name": "EbM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EbM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EbM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EbM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "EbM7#5sus4",
     "notes": [
       "Eb",
@@ -3978,11 +3628,6 @@
       "B",
       "D"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "EbM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -4036,21 +3681,6 @@
       "Bb",
       "D"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "EbM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EbM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EbM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -4135,16 +3765,6 @@
   },
   {
     "type": "chord",
-    "name": "EbMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EbMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Ebm",
     "notes": [
       "Eb",
@@ -4172,16 +3792,6 @@
       "F",
       "Ab"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Ebm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Ebm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -4289,16 +3899,6 @@
       "A",
       "Db"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "EbmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EbmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -4570,16 +4170,6 @@
       "E",
       "B"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "E64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "E69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -4876,11 +4466,6 @@
   },
   {
     "type": "chord",
-    "name": "E7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "E7sus4b9b13",
     "notes": [
       "E",
@@ -5004,11 +4589,6 @@
   },
   {
     "type": "chord",
-    "name": "EM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "EM#5add9",
     "notes": [
       "E",
@@ -5016,11 +4596,6 @@
       "C",
       "F#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "EM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -5058,26 +4633,6 @@
   },
   {
     "type": "chord",
-    "name": "EM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "EM7#5sus4",
     "notes": [
       "E",
@@ -5085,11 +4640,6 @@
       "C",
       "D#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "EM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -5143,21 +4693,6 @@
       "B",
       "D#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "EM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -5242,16 +4777,6 @@
   },
   {
     "type": "chord",
-    "name": "EMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Em",
     "notes": [
       "E",
@@ -5279,16 +4804,6 @@
       "F#",
       "A"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Em11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Em11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -5396,16 +4911,6 @@
       "Bb",
       "D"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "EmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "EmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -5677,16 +5182,6 @@
       "F",
       "C"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "F64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "F69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -5983,11 +5478,6 @@
   },
   {
     "type": "chord",
-    "name": "F7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "F7sus4b9b13",
     "notes": [
       "F",
@@ -6111,11 +5601,6 @@
   },
   {
     "type": "chord",
-    "name": "FM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "FM#5add9",
     "notes": [
       "F",
@@ -6123,11 +5608,6 @@
       "C#",
       "G"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "FM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -6165,26 +5645,6 @@
   },
   {
     "type": "chord",
-    "name": "FM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "FM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "FM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "FM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "FM7#5sus4",
     "notes": [
       "F",
@@ -6192,11 +5652,6 @@
       "C#",
       "E"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "FM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -6250,21 +5705,6 @@
       "C",
       "E"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "FM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "FM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "FM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -6349,16 +5789,6 @@
   },
   {
     "type": "chord",
-    "name": "FMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "FMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Fm",
     "notes": [
       "F",
@@ -6386,16 +5816,6 @@
       "G",
       "Bb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Fm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Fm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -6503,16 +5923,6 @@
       "B",
       "Eb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "FmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "FmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -6766,26 +6176,6 @@
       "Ab",
       "Eb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Gb4th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Gb5th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Gb64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Gb69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -7082,11 +6472,6 @@
   },
   {
     "type": "chord",
-    "name": "Gb7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Gb7sus4b9b13",
     "notes": [
       "Gb",
@@ -7210,11 +6595,6 @@
   },
   {
     "type": "chord",
-    "name": "GbM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "GbM#5add9",
     "notes": [
       "Gb",
@@ -7222,11 +6602,6 @@
       "D",
       "Ab"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "GbM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -7264,26 +6639,6 @@
   },
   {
     "type": "chord",
-    "name": "GbM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GbM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GbM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GbM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "GbM7#5sus4",
     "notes": [
       "Gb",
@@ -7291,11 +6646,6 @@
       "D",
       "F"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "GbM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -7349,21 +6699,6 @@
       "Db",
       "F"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "GbM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GbM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GbM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -7448,16 +6783,6 @@
   },
   {
     "type": "chord",
-    "name": "GbMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GbMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Gbm",
     "notes": [
       "Gb",
@@ -7485,16 +6810,6 @@
       "Ab",
       "B"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Gbm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Gbm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -7602,16 +6917,6 @@
       "C",
       "E"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "GbmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GbmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -7883,16 +7188,6 @@
       "G",
       "D"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "G64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "G69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -8189,11 +7484,6 @@
   },
   {
     "type": "chord",
-    "name": "G7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "G7sus4b9b13",
     "notes": [
       "G",
@@ -8317,11 +7607,6 @@
   },
   {
     "type": "chord",
-    "name": "GM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "GM#5add9",
     "notes": [
       "G",
@@ -8329,11 +7614,6 @@
       "D#",
       "A"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "GM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -8371,26 +7651,6 @@
   },
   {
     "type": "chord",
-    "name": "GM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "GM7#5sus4",
     "notes": [
       "G",
@@ -8398,11 +7658,6 @@
       "D#",
       "F#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "GM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -8456,21 +7711,6 @@
       "D",
       "F#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "GM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -8555,16 +7795,6 @@
   },
   {
     "type": "chord",
-    "name": "GMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Gm",
     "notes": [
       "G",
@@ -8592,16 +7822,6 @@
       "A",
       "C"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Gm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Gm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -8709,16 +7929,6 @@
       "Db",
       "F"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "GmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "GmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -8972,26 +8182,6 @@
       "Bb",
       "F"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Ab4th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Ab5th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Ab64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Ab69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -9288,11 +8478,6 @@
   },
   {
     "type": "chord",
-    "name": "Ab7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Ab7sus4b9b13",
     "notes": [
       "Ab",
@@ -9416,11 +8601,6 @@
   },
   {
     "type": "chord",
-    "name": "AbM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "AbM#5add9",
     "notes": [
       "Ab",
@@ -9428,11 +8608,6 @@
       "E",
       "Bb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "AbM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -9470,26 +8645,6 @@
   },
   {
     "type": "chord",
-    "name": "AbM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AbM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AbM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AbM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "AbM7#5sus4",
     "notes": [
       "Ab",
@@ -9497,11 +8652,6 @@
       "E",
       "G"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "AbM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -9555,21 +8705,6 @@
       "Eb",
       "G"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "AbM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AbM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AbM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -9654,16 +8789,6 @@
   },
   {
     "type": "chord",
-    "name": "AbMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AbMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Abm",
     "notes": [
       "Ab",
@@ -9691,16 +8816,6 @@
       "Bb",
       "Db"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Abm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Abm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -9808,16 +8923,6 @@
       "D",
       "Gb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "AbmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AbmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -10089,16 +9194,6 @@
       "A",
       "E"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "A64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "A69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -10395,11 +9490,6 @@
   },
   {
     "type": "chord",
-    "name": "A7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "A7sus4b9b13",
     "notes": [
       "A",
@@ -10523,11 +9613,6 @@
   },
   {
     "type": "chord",
-    "name": "AM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "AM#5add9",
     "notes": [
       "A",
@@ -10535,11 +9620,6 @@
       "F",
       "B"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "AM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -10577,26 +9657,6 @@
   },
   {
     "type": "chord",
-    "name": "AM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "AM7#5sus4",
     "notes": [
       "A",
@@ -10604,11 +9664,6 @@
       "F",
       "G#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "AM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -10662,21 +9717,6 @@
       "E",
       "G#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "AM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -10761,16 +9801,6 @@
   },
   {
     "type": "chord",
-    "name": "AMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Am",
     "notes": [
       "A",
@@ -10798,16 +9828,6 @@
       "B",
       "D"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Am11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Am11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -10915,16 +9935,6 @@
       "Eb",
       "G"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "AmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "AmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -11178,26 +10188,6 @@
       "C",
       "G"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Bb4th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Bb5th",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Bb64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Bb69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -11494,11 +10484,6 @@
   },
   {
     "type": "chord",
-    "name": "Bb7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Bb7sus4b9b13",
     "notes": [
       "Bb",
@@ -11622,11 +10607,6 @@
   },
   {
     "type": "chord",
-    "name": "BbM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "BbM#5add9",
     "notes": [
       "Bb",
@@ -11634,11 +10614,6 @@
       "F#",
       "C"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "BbM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -11676,26 +10651,6 @@
   },
   {
     "type": "chord",
-    "name": "BbM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BbM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BbM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BbM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "BbM7#5sus4",
     "notes": [
       "Bb",
@@ -11703,11 +10658,6 @@
       "F#",
       "A"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "BbM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -11761,21 +10711,6 @@
       "F",
       "A"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "BbM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BbM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BbM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -11860,16 +10795,6 @@
   },
   {
     "type": "chord",
-    "name": "BbMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BbMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Bbm",
     "notes": [
       "Bb",
@@ -11897,16 +10822,6 @@
       "C",
       "Eb"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Bbm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Bbm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -12014,16 +10929,6 @@
       "E",
       "Ab"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "BbmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BbmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
@@ -12295,16 +11200,6 @@
       "B",
       "F#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "B64",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "B69#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -12601,11 +11496,6 @@
   },
   {
     "type": "chord",
-    "name": "B7sus4b9",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "B7sus4b9b13",
     "notes": [
       "B",
@@ -12729,11 +11619,6 @@
   },
   {
     "type": "chord",
-    "name": "BM#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "BM#5add9",
     "notes": [
       "B",
@@ -12741,11 +11626,6 @@
       "G",
       "C#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "BM13",
-    "notes": []
   },
   {
     "type": "chord",
@@ -12783,26 +11663,6 @@
   },
   {
     "type": "chord",
-    "name": "BM69",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BM69#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BM7#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BM7#5",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "BM7#5sus4",
     "notes": [
       "B",
@@ -12810,11 +11670,6 @@
       "G",
       "A#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "BM7#9#11",
-    "notes": []
   },
   {
     "type": "chord",
@@ -12868,21 +11723,6 @@
       "F#",
       "A#"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "BM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BM9#11",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BM9#5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -12967,16 +11807,6 @@
   },
   {
     "type": "chord",
-    "name": "BMsus2",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BMsus4",
-    "notes": []
-  },
-  {
-    "type": "chord",
     "name": "Bm",
     "notes": [
       "B",
@@ -13004,16 +11834,6 @@
       "C#",
       "E"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "Bm11A 5",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "Bm11b5",
-    "notes": []
   },
   {
     "type": "chord",
@@ -13121,16 +11941,6 @@
       "F",
       "A"
     ]
-  },
-  {
-    "type": "chord",
-    "name": "BmM9",
-    "notes": []
-  },
-  {
-    "type": "chord",
-    "name": "BmM9b6",
-    "notes": []
   },
   {
     "type": "chord",
